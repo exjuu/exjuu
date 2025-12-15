@@ -9,6 +9,16 @@
 
 <hr/>
 
+<h3>✍️ Blog</h3>
+<p>
+  <a href="https://yeju-dev.tistory.com" target="_blank">
+    블로그 시작함!
+  </a>
+</p>
+
+<hr/>
+
+
 <!-- 🖼️ GitAnimals -->
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=exjuu&utm_content=farm">
