@@ -11,7 +11,7 @@
 
 <h3>✍️ Blog</h3>
 <p>
-  <a href="https://yeju-dev.tistory.com" target="_blank">
+  <a href="https://exjuu.tistory.com" target="_blank">
     블로그 시작함!
   </a>
 </p>
