@@ -6,22 +6,9 @@
 <h3 style="display:inline;"> Tech Stack</h3>
 
 <p>
-  <a href="mailto:bbogaeme@gmail.com"
-     style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark"  style="border:0; outline:none; box-shadow:none;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://exjuu.tistory.com"
-     target="_blank"
-     style="text-decoration: none; border: none;">
-    <img src="https://skillicons.dev/icons?i=devto&theme=light" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/exjuu"
-     target="_blank"
-     style="text-decoration: none; border: none;">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" />
-  </a>
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:bbogaeme@gmail.com)
+[![instagram](https://skillicons.dev/icons?i=devto)](https://exjuu.tistory.com)
+[![notion](https://skillicons.dev/icons?i=github)](https://github.com/exjuu)
 </p>
 
 
