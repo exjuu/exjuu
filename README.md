@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Email-bbogaeme@gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/exjuu">
-    <img src="https://img.shields.io/badge/GitHub-Yeju--Kang-111827?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-exjuu-111827?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://exjuu.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-exjuu.tistory.com-FF6B6B?style=flat-square&logo=tistory&logoColor=white" />
