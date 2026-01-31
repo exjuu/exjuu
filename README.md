@@ -5,17 +5,25 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" />
 <h3 style="display:inline;"> Tech Stack</h3>
 
-<p>
-  <a href="mailto:bbogaeme@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+<p align="center">
+  <a href="mailto:bbogaeme@gmail.com"
+     style="text-decoration: none; border: none;">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
-  <a href="https://exjuu.tistory.com">
-    <img src="https://skillicons.dev/icons?i=devto&theme=dark" />
+  &nbsp;&nbsp;
+  <a href="https://exjuu.tistory.com"
+     target="_blank"
+     style="text-decoration: none; border: none;">
+    <img src="https://skillicons.dev/icons?i=devto&theme=light" />
   </a>
-  <a href="https://github.com/Yeju-Kang">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/exjuu"
+     target="_blank"
+     style="text-decoration: none; border: none;">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" />
   </a>
 </p>
+
 
 <h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png"
