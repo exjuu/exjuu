@@ -7,13 +7,13 @@
 
 <p>
   <a href="mailto:bbogaeme@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
-  <a href="https://exjuu.tistory.com" target="_blank" title="Blog">
-    <img src="https://skillicons.dev/icons?i=devto&theme=light" />
+  <a href="https://exjuu.tistory.com" title="Blog">
+    <img src="https://skillicons.dev/icons?i=devto&theme=dark" />
   </a>
-  <a href="https://github.com/Yeju-Kang" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" />
+  <a href="https://github.com/Yeju-Kang" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
 </p>
 
