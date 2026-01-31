@@ -22,28 +22,28 @@
 <p>
   <b>Frontend</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,js,scss,vite&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,redux,js,scss,vite&theme=dark&perline=10" />
   </a>
 </p>
 
 <p>
   <b>Backend</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark&perline=10" />
   </a>
 </p>
 
 <p>
   <b>Database</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10" />
   </a>
 </p>
 
 <p>
   <b>DevOps & Tools</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,githubactions,git&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=aws,githubactions,git&theme=dark&perline=10" />
   </a>
 </p>
 
