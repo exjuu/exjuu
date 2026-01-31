@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" />
 <h3 style="display:inline;"> Tech Stack</h3>
 
-<p align="center">
+<p>
   <a href="mailto:bbogaeme@gmail.com"
      style="text-decoration: none; border: none;">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
