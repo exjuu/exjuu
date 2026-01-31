@@ -1,10 +1,10 @@
 <!-- Yeju Kang's GitHub README -->
 
-<h2 align="center">Yeju Kang | Developer</h2>
+![header](https://capsule-render.vercel.app/api?type=waving&color=F2A7C6&height=280&section=header&text=exjuu&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 <h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/master/Emojis/Smilies/Love%20Letter.png"
-       width="28"
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png"
+       width="25"
        style="vertical-align: middle;" />
   Contact
 </h3>
@@ -15,7 +15,7 @@
 
 <h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png"
-       width="28"
+       width="25"
        style="vertical-align: middle;" />
   Tech Stack
 </h3>
@@ -49,7 +49,12 @@
   </a>
 </p>
 
-<hr/>
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tiger%20Face.png"
+       width="25"
+       style="vertical-align: middle;" />
+  Git Animal
+</h3>
 
 <!-- 🖼️ GitAnimals -->
 <p>
@@ -57,3 +62,5 @@
     <img src="https://render.gitanimals.org/farms/exjuu" width="600" height="300" />
   </a>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=F2A7C6&height=120&section=footer)
