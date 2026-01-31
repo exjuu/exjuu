@@ -6,13 +6,13 @@
 <h3 style="display:inline;"> Tech Stack</h3>
 
 <p>
-  <a href="mailto:bbogaeme@gmail.com" title="Email">
+  <a href="mailto:bbogaeme@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
-  <a href="https://exjuu.tistory.com" title="Blog">
+  <a href="https://exjuu.tistory.com">
     <img src="https://skillicons.dev/icons?i=devto&theme=dark" />
   </a>
-  <a href="https://github.com/Yeju-Kang" title="GitHub">
+  <a href="https://github.com/Yeju-Kang">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
 </p>
