@@ -7,8 +7,8 @@
 
 <p>
   <a href="mailto:bbogaeme@gmail.com"
-     style="text-decoration: none; border: none;">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+     style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark"  style="border:0; outline:none; box-shadow:none;" />
   </a>
   &nbsp;&nbsp;
   <a href="https://exjuu.tistory.com"
