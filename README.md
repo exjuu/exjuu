@@ -9,11 +9,9 @@
   <a href="mailto:bbogaeme@gmail.com" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://exjuu.tistory.com" target="_blank" title="Blog">
     <img src="https://skillicons.dev/icons?i=devto&theme=light" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Yeju-Kang" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github&theme=light" />
   </a>
