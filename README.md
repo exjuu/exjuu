@@ -2,19 +2,21 @@
 
 <h2 align="center">Yeju Kang | Developer</h2>
 
+<br/>
+
 <p align="center">
-  <a href="mailto:bbogaeme@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bbogaeme@gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:bbogaeme@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
-  <a href="https://github.com/exjuu">
-    <img src="https://img.shields.io/badge/GitHub-exjuu-111827?style=flat-square&logo=github&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://exjuu.tistory.com" target="_blank" title="Blog">
+    <img src="https://skillicons.dev/icons?i=devto&theme=light" />
   </a>
-  <a href="https://exjuu.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-exjuu.tistory.com-FF6B6B?style=flat-square&logo=tistory&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/Yeju-Kang" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" />
   </a>
 </p>
-
-<br/>
 
 <h3>🧩 Tech Stack</h3>
 
