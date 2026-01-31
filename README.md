@@ -6,7 +6,7 @@
   <a href="mailto:bbogaeme@gmail.com">
     <img src="https://img.shields.io/badge/Email-bbogaeme@gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Yeju-Kang">
+  <a href="https://github.com/exjuu">
     <img src="https://img.shields.io/badge/GitHub-Yeju--Kang-111827?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://exjuu.tistory.com" target="_blank">
