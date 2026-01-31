@@ -3,7 +3,7 @@
 <h2 align="center">Yeju Kang | Developer</h2>
 
 <h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/master/Emojis/Smilies/Love%20Letter.png"
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/master/Emojis/Smilies/Love%20Letter.png"
        width="28"
        style="vertical-align: middle;" />
   Contact
