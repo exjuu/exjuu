@@ -18,7 +18,8 @@
   </a>
 </p>
 
-<h3>🧩 Tech Stack</h3>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" />
+<h3 style="display:inline;"> Tech Stack</h3>
 
 <!-- Skill Icons (skillicons.dev) -->
 <p>
