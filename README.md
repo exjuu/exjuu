@@ -19,8 +19,10 @@
   </a>
 </p>
 
+<p>
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" />
 <h3 style="display:inline;"> Tech Stack</h3>
+</p>
 
 <!-- Skill Icons (skillicons.dev) -->
 <p>
