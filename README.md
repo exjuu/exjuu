@@ -2,8 +2,12 @@
 
 <h2 align="center">Yeju Kang | Developer</h2>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" />
-<h3 style="display:inline;"> Tech Stack</h3>
+<h3>
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/edit/master/Emojis/Smilies/Love%20Letter.png"
+       width="28"
+       style="vertical-align: middle;" />
+  Contact
+</h3>
 
 [<img src="https://skillicons.dev/icons?i=gmail&theme=dark" style="display:block;" />](mailto:bbogaeme@gmail.com)
 [<img src="https://skillicons.dev/icons?i=devto&theme=dark" style="display:block;" />](https://exjuu.tistory.com)
