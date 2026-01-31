@@ -1,6 +1,6 @@
 <!-- Yeju Kang's GitHub README -->
 
-<h2 align="center">👩‍💻 Yeju Kang | Developer</h2>
+<h2 align="center">Yeju Kang | Developer</h2>
 
 <p align="center">
   <a href="mailto:bbogaeme@gmail.com">
