@@ -5,12 +5,9 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="28" />
 <h3 style="display:inline;"> Tech Stack</h3>
 
-<p>
-[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:bbogaeme@gmail.com)
-[![instagram](https://skillicons.dev/icons?i=devto)](https://exjuu.tistory.com)
-[![notion](https://skillicons.dev/icons?i=github)](https://github.com/exjuu)
-</p>
-
+[<img src="https://skillicons.dev/icons?i=gmail&theme=dark" style="display:block;" />](mailto:bbogaeme@gmail.com)
+[<img src="https://skillicons.dev/icons?i=devto&theme=dark" style="display:block;" />](https://exjuu.tistory.com)
+[<img src="https://skillicons.dev/icons?i=github&theme=dark" style="display:block;" />](https://github.com/exjuu)
 
 <h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png"
