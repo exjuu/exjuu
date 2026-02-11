@@ -45,7 +45,7 @@
 <p>
   <b>DevOps & Tools</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,githubactions,git&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=aws,githubactions,git,gitlab&theme=dark&perline=10" />
   </a>
 </p>
 
