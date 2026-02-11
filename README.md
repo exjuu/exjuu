@@ -24,7 +24,7 @@
 <p>
   <b>Frontend</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,js,scss,vite&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,redux,js,html,css,scss,vite&theme=dark&perline=10" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 <p>
   <b>Database</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark&perline=10" />
   </a>
 </p>
 
